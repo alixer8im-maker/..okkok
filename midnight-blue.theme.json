@@ -1,9 +1,9 @@
 {
   "name": "midnight-blue",
-  "description": "Midnight Discord theme by refact0r, ported to Kettu/Revenge.",
+  "description": "Midnight Theme port by Amak.",
   "authors": [
     {
-      "name": "refact0r"
+      "name": "amak"
     }
   ],
   "spec": 2,
